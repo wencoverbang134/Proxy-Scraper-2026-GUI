@@ -1,0 +1,37 @@
+# Windows Specific
+[Tt]humbs.db
+*.lnk
+*.manifest
+*.res
+*.rc
+
+# Visual Studio files
+.vs/
+build/
+bin/
+out/
+x64/
+x86/
+Debug/
+Release/
+*.user
+*.suo
+*.sln.docstates
+
+# Compilation
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.aps
+*.log
+
+# Results & Configs
+proxies_found.txt
+settings.ini
+valid_proxies.csv
+
+# Archives
+*.zip
+*.rar
+*.7z
